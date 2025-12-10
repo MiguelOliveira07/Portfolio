@@ -1,0 +1,60 @@
+:root {
+    --branco: #F7F9F9;
+    --preto: rgba(0,0,0,0.3);
+    --sombra: #131314;
+    --cinza: #637074d3;
+    --cinza-fosco: #d6e3e71a;
+    --vidro: #fffbfee3; 
+    --luz-clara: rgba(255, 255, 255, 0.05);
+    --vidro-fosco: rgba(255,255,255,0.05);
+    --sombra-vidro: 1px 1px 10px 0px rgba(117, 116, 116, 0.6);
+    --sombra-escura: 1px 1px 5px 0px var(--branco);
+
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background: var(--sombra);
+}
+
+
+.educacao-section {
+    width: 80%;
+    margin: 40px auto;
+}
+
+.titulo-pagina {
+    text-align: center;
+    font-size: 32px;
+    margin-bottom: 40px;
+    color: var(--branco);
+}
+
+.bloco {
+    background: white;
+    padding: 25px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px #0002;
+}
+
+.subtitulo {
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+
+.item {
+    margin-bottom: 18px;
+}
+
+.item h4 {
+    margin: 0;
+    font-size: 18px;
+}
+
+.item p {
+    margin: 5px 0;
+    color: var(--cinza);
+}
