@@ -14,15 +14,14 @@
 }
 
 body {
-    height: 100vh;
-    width: 100vw;
+    
     background-color: var(--sombra);
     overflow-x: hidden;
 }
 
 main {
     align-content: center;
-    height: 80%;
+    padding-top: 80px;
 
     & section {
         display: flex;
@@ -152,25 +151,28 @@ main {
         overflow-x: hidden;
     }
 
-
-
+    main section #caixa-texto{
+        font-size: 12px;
+        max-height: 200px;
+    }
     main {
+
         & section {
             flex-direction: column;
-            justify-content: center;
+            justify-content: space-between;
             align-items: center;
-            height: auto;
+            height: 1100px ;
             padding: 0;
             gap: 10px;
 
             & #foto img {
-                width: 180px;
-                height: 180px;
+                width: 280px;
+                height: 400px;
             }
 
             & #caixa-texto {
-                width: 90%;
-                text-align: center;
+                width: 80vw;
+                text-align: start;
 
                 & p {
                     font-size: 10px;
