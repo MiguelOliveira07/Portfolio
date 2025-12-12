@@ -90,12 +90,18 @@ header #menu li {
     height: 20px;
     padding: 10px;
     text-align: center;
-    font-size: large;
     border-radius: 10px;
     cursor: pointer;
     position: relative;
 
 }
+
+.audiowide-regular {
+  font-family: "Audiowide", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
 
 header #menu li a {
     text-decoration: none;
