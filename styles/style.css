@@ -14,7 +14,7 @@
 }
 
 body {
-    
+
     background-color: var(--sombra);
     overflow-x: hidden;
 }
@@ -163,17 +163,18 @@ main {
         overflow-x: hidden;
     }
 
-    main section #caixa-texto{
+    main section #caixa-texto {
         font-size: 12px;
         max-height: 200px;
     }
+
     main {
 
         & section {
             flex-direction: column;
             justify-content: space-between;
             align-items: center;
-            height: 1100px ;
+            height: 1100px;
             padding: 0;
             gap: 10px;
 
@@ -187,8 +188,8 @@ main {
                 text-align: start;
 
                 & p {
-                    font-size: 10px;
-                    padding: 15px;
+                    font-size: 13px;
+                    padding: 2px !important;
                 }
 
                 & footer {
@@ -228,10 +229,16 @@ main {
 
     }
 
+     #caixa-texto {
+        width: 70vw !important;
+     }
+
     main section div p {
         line-height: 1.6px;
         word-spacing: 3px !important;
         font-size: 15px !important;
+        padding: 5px !important;
+
 
     }
 }
@@ -249,10 +256,14 @@ main {
         width: 300px;
         height: 450px;
     }
+    main section div{
+        min-width: 600px !important;
+    }
 
     main section div p {
+        
         line-height: 30px;
-        font-size: 18px;
+        font-size: 20px !important;
     }
 
     main section span img {
