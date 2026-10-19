@@ -1,21 +1,20 @@
 # Portfólio Pessoal — Miguel Oliveira
+Este portfólio foi criado para exibir minha experiência profissional, educação, competências e projetos na área de tecnologia. Aqui você encontra um pouco da minha trajetória em TI, o que sei sobre desenvolvimento web e como tenho evoluído como desenvolvedor. 
 
-Portfólio desenvolvido para apresentar minha trajetória profissional, formação acadêmica, habilidades e projetos na área de tecnologia. O site reúne informações sobre minha experiência em TI, meus conhecimentos em desenvolvimento web e minha evolução como desenvolvedor.
-
-**Tecnologias utilizadas:**
-- HTML5
-- CSS3
-- JavaScript
+**Ferramentas empregadas:** 
+- HTML5 
+- CSS3 
+- JS
 - Bootstrap Icons
-- Google Fonts
+- Fonts from Google
 
-**Funcionalidades:**
-- Apresentação pessoal e profissional.
-- Página de formação acadêmica, cursos e certificados.
-- Seção de experiência profissional e projetos.
-- Links para contato, LinkedIn e GitHub.
-- Interface personalizada e adaptada para diferentes páginas.
+**Características:** 
+- Apresentação tanto pessoal quanto profissional.
+- Página de graduação, cursos e certificações.
+- Área de experiência profissional e projetos.
+- Contato, LinkedIn e GitHub. 
+- Interface customizada e ajustada para diversas páginas.
 
-O projeto foi desenvolvido para fortalecer minha presença profissional, demonstrar meus conhecimentos técnicos e facilitar o contato com recrutadores e empresas interessadas no meu perfil.
+O projeto visa aumentar minha visibilidade profissional, evidenciar minhas habilidades técnicas e tornar mais fácil o contato de recrutadores e empresas que buscam meu perfil.
 
-**Acesse o portfólio:** (https://migueloliveira07.github.io/Portfolio/)
+**Link para o Portfólio**: (https://migueloliveira07.github.io/Portfolio/)
